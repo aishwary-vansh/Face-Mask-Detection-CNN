@@ -35,6 +35,13 @@ This project implements a Convolutional Neural Network (CNN) to classify whether
 - Confusion Matrix & Classification Report
 - Model Saving (.h5)
 
+## 📊 Model Performance
+
+![Accuracy](assets/image.png)
+![Confusion Matrix](assets/confusionmatrix.png)
+![Model Output](assets/Modeloutput.png)
+![Classification Report](assets/classificationreport.png)
+
 ## 🔮 Future Improvements
 - Real-time webcam detection
 - Deployment using Streamlit or Flask
