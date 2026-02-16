@@ -42,6 +42,15 @@ This project implements a Convolutional Neural Network (CNN) to classify whether
 ![Model Output](assets/Modeloutput.png)
 ![Classification Report](assets/classificationreport.png)
 
+
+## ▶ How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Open the notebook and run all cells
+
+
 ## 🔮 Future Improvements
 - Real-time webcam detection
 - Deployment using Streamlit or Flask
